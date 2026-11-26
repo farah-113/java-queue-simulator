@@ -1,0 +1,18 @@
+# Maven build files
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Generated simulation output
+/testsim.txt
+/test3.txt
+/src/logs/test3.txt
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
